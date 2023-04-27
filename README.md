@@ -13,4 +13,4 @@ This project is a walkthrough of how I created an Active Directory home lab Envi
 - <b>Powershell</b>
 
 
-<h2>Program walk-through</h2>
+<h2>Program walk-through Article that I created</h2>
