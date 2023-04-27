@@ -1,7 +1,13 @@
 <h1>Active Directory (IAM) Home Lab Creation</h1>
 
 <h2>Description</h2>
-This project is a walkthrough of how I created an Active Directory home lab Environment using VMWare. I set up a Microsoft Server to run Active Directory on it. I then configure a Domain Controller that will allow me to run a domain. After that I ran a Powershell script to create over 1000 users in Active Directory and proceed to log into those newly created accounts on another client that uses the domain I set up to connect to the internet. This lab simulates a business environment. In this lab I'll need a Microsoft Server 2019 ISO, A Windows 10 Enterprise ISO, VMWare and a Powershell script.
+This project is a walkthrough of how I created an Active Directory home lab Environment using VirtualBox. Here are the tasks I've completed for this lab:<br />
+<br />
+- Installed a 2019 Microsoft Server to run Active Directory on it.<br /> 
+- Configured a Domain Controller, then created a domain. <br />
+- Installed and configured DHCP. <br />
+- Ran a Powershell script to create over 1000 users in Active Directory. <br />
+- Created a ClIENT VM using a Windows 10 ISO, added it to the domain and proceeded to log into it with some of the newly created accounts. 
 <br />
 
 <h2>Environments and Tools Used </h2>
@@ -13,4 +19,5 @@ This project is a walkthrough of how I created an Active Directory home lab Envi
 - <b>Powershell</b>
 
 
-<h2>Program walk-through Article that I created</h2>
+<h2>Project walk-through blog post that I created:</h2>
+https://medium.com/@aali23/
