@@ -7,7 +7,7 @@ This project is a walkthrough of how I created an Active Directory home lab Envi
 - Configured a Domain Controller, then created a domain. <br />
 - Installed and configured DHCP. <br />
 - Ran a Powershell script to create over 1000 users in Active Directory. <br />
-- Created a ClIENT VM using a Windows 10 ISO, added it to the domain and proceeded to log into it with some of the newly created accounts. 
+- Created a Client VM using a Windows 10 ISO, added it to the domain and proceeded to log into it with some of the newly created accounts. 
 <br />
 
 <h2>Environments and Tools Used </h2>
