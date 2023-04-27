@@ -8,9 +8,9 @@ This project is a walkthrough of how I created an Active Directory home lab Envi
 
 - <b>VirtualBox</b>
 - <b>2019 Microsoft Server 2019</b>
-- <b>Windows 10</b> (21H2)
-- Active Directory
-- Powershell
+- <b>Windows 10</b>
+- <b>Active Directory</b>
+- <b>Powershell</b>
 
 
 <h2>Program walk-through</h2>
