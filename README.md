@@ -20,4 +20,4 @@ This project is a walkthrough of how I created an Active Directory home lab Envi
 
 
 <h2>Project walk-through blog post that I created:</h2>
-https://medium.com/@aali23/
+https://medium.com/@aali23/how-to-build-an-active-directory-iam-home-lab-using-virtualbox-60b79b94b300
