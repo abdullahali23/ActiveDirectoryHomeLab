@@ -18,6 +18,7 @@ This project is a walkthrough of how I created an Active Directory home lab Envi
 - <b>Active Directory</b>
 - <b>Powershell</b>
 
+<h2>Here is an article that I wrote on Medium.com walking through the lab setup:</h2>
 
- ### [Lab walkthrough article that I created on Medium.com](https://medium.com/@aali23/how-to-build-an-active-directory-iam-home-lab-using-virtualbox-60b79b94b300?source=friends_link&sk=a1adc5832a0e4887f26c9a6b82daf7dd)
+### [Lab walkthrough](https://medium.com/@aali23/how-to-build-an-active-directory-iam-home-lab-using-virtualbox-60b79b94b300?source=friends_link&sk=a1adc5832a0e4887f26c9a6b82daf7dd)
 
